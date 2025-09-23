@@ -1,0 +1,32 @@
+ATAJOS DE TECLADO DE VISUAL STUDIO CODE:
+
+Fin: Permite que el cursor llegue de una linea cualquiera a la ultima linea
+Ctrl: Permite pasar entre palabras
+Shift: Permite pasar en linea pero selecciona las palabras donde cruza
+Inicio: Mueve el cursor al inicion de linea
+Shift + Ctrl: Mueve el cursor entre palabras y los seleccion
+Alt + arriba/abajo: Cambia la linea con otra, de arriba o abajo
+Tab: Mueve la linea una cantidad de espacios, la cantidad que pase dependera de su configuración
+Shift + Tab: Mueve la linea hacia la izquierda una cantidad de espacios, la cantidad que pase dependera de su configuración
+Ctrl + }: Hace que la linea o lineas seleccionadas se comenten o descomenten
+Ctrl + ,: Abre las preferencias de usuario
+Ctrl + K + P: Permite ver los archivos abiertos actualmente
+Ctrl + b: Abre o cierra la barra lateral, solo en el explorador de archivos
+Ctrl + Shift + e: Abre y interactua con el explorador de archivos, se puede mover de arriba a abajo entre archivos y entrar al presionar espacio
+
+INTELLISENSE:
+
+Sugiere elementos o clases para usar dentro del codigo
+Ctrl + espacio: Abre el intellisense
+
+Snippets: 
+
+clg + enter: Escribe console.log() y posiciona el cursor entre los parentesis
+Tab: Permite que el cursor pase a la siguiente linea luego de completar el parentesis
+
+BUSCADOR DE ARCHIVOS:
+Ctrl + P: Abre el buscador de Archivos
+
+PALETA DE COMANDOS:
+
+
